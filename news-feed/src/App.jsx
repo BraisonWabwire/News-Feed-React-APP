@@ -7,8 +7,7 @@ function App() {
 
   return (
     <>
-        <Header></Header>
-        <Content />
+        {/* <Header></Header> */}
         <Footer></Footer>
     </>
   )
